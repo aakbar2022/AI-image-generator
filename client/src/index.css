@@ -1,5 +1,15 @@
-.header_conteiner{
-    display: flex;
-    justify-content: space-between;
-    gap: 10px;
+.header_conteiner {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.home_container, .create_post_container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.browser_collection {
+  margin-top: 20px;
+}
+.form_fieldContainer {
+  margin-top: 16px;
 }
