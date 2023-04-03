@@ -20,7 +20,7 @@ const handleChange=()=>{
           <h1>Create</h1>
           <p className="browser_collection">
             imaginative and visually stunning images
-            created by Dall-E AI
+            created by Dall-E AI.
           </p>
         </div>
         <FormField value={form.name}
