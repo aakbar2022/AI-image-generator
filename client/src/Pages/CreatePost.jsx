@@ -14,6 +14,9 @@ const CreatePost = () => {
 const handleChange=()=>{
   
 }
+const handleSurpriseMe=()=>{
+  
+}
   return (<>
   <section className="create_post_container">
   <div>
@@ -24,8 +27,11 @@ const handleChange=()=>{
           </p>
         </div>
         <FormField value={form.name}
-        placeholder="Name"
+        placeholder="What do you do with this newfound ability"
         handleChange={handleChange}
+        type='text'
+        isSurprise
+        handleSurpriseMe={handleSurpriseMe}
         />
   </section>
   </>);
