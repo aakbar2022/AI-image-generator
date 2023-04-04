@@ -22,7 +22,7 @@ const handleSurpriseMe=()=>{
   <div>
           <h1>Create</h1>
           <p className="browser_collection">
-            imaginative and visually stunning images
+            imaginative stunning images
             created by Dall-E AI.
           </p>
         </div>
