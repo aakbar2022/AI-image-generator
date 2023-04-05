@@ -22,8 +22,7 @@ const handleSurpriseMe=()=>{
   <div>
           <h1>Create</h1>
           <p className="browser_collection">
-            imaginative stunning images
-            created by Dall-E AI.
+            imaginative stunning images created by Dall-E AI.
           </p>
         </div>
         <FormField value={form.name}
